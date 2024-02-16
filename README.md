@@ -42,37 +42,25 @@ This project focuses on the comprehensive analysis of Airbnb data using MongoDB 
 
 ### Geospatial Visualization
 
-![Geospatial Visualization](placeholder-image)
-
 The Streamlit web application provides an interactive map showcasing the distribution of Airbnb listings, allowing users to explore prices, ratings, and other relevant factors.
 
 ### Price Analysis and Visualization
-
-![Price Analysis](placeholder-image)
 
 Dynamic plots and charts were created to analyze and visualize how prices vary across different locations, property types, and seasons.
 
 ### Availability Analysis by Season
 
-![Availability Analysis](placeholder-image)
-
 Visualized occupancy rates, booking patterns, and demand fluctuations across seasons using line charts, heatmaps, or other suitable visualizations.
 
 ### Location-Based Insights
-
-![Location-Based Insights](placeholder-image)
 
 Investigated how the price of listings varies across different locations, utilizing MongoDB queries and data aggregation techniques.
 
 ## Interactive Visualizations
 
-![Interactive Visualizations](placeholder-image)
-
 Developed dynamic and interactive visualizations allowing users to filter and drill down into the data based on their preferences.
 
 ## Dashboard
-
-![Comprehensive Dashboard](placeholder-image)
 
 Utilized Tableau or Power BI to create a comprehensive dashboard, combining various visualizations to present key insights from the analysis.
 
