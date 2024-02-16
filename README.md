@@ -42,37 +42,37 @@ This project focuses on the comprehensive analysis of Airbnb data using MongoDB 
 
 ### Geospatial Visualization
 
-![Geospatial Visualization](link-to-image-or-gif)
+![Geospatial Visualization](placeholder-image)
 
 The Streamlit web application provides an interactive map showcasing the distribution of Airbnb listings, allowing users to explore prices, ratings, and other relevant factors.
 
 ### Price Analysis and Visualization
 
-![Price Analysis](link-to-image-or-gif)
+![Price Analysis](placeholder-image)
 
 Dynamic plots and charts were created to analyze and visualize how prices vary across different locations, property types, and seasons.
 
 ### Availability Analysis by Season
 
-![Availability Analysis](link-to-image-or-gif)
+![Availability Analysis](placeholder-image)
 
 Visualized occupancy rates, booking patterns, and demand fluctuations across seasons using line charts, heatmaps, or other suitable visualizations.
 
 ### Location-Based Insights
 
-![Location-Based Insights](link-to-image-or-gif)
+![Location-Based Insights](placeholder-image)
 
 Investigated how the price of listings varies across different locations, utilizing MongoDB queries and data aggregation techniques.
 
 ## Interactive Visualizations
 
-![Interactive Visualizations](link-to-image-or-gif)
+![Interactive Visualizations](placeholder-image)
 
 Developed dynamic and interactive visualizations allowing users to filter and drill down into the data based on their preferences.
 
 ## Dashboard
 
-![Comprehensive Dashboard](link-to-image-or-gif)
+![Comprehensive Dashboard](placeholder-image)
 
 Utilized Tableau or Power BI to create a comprehensive dashboard, combining various visualizations to present key insights from the analysis.
 
@@ -117,5 +117,3 @@ Summarize the key findings, insights, and the overall impact of the project. Dis
 Mention any external libraries, datasets, or tutorials that were instrumental in the project's success.
 
 ---
-
-Feel free to replace the placeholder images and customize the content to match the specifics of your project. This template is a starting point, and you can add or modify sections based on your project's unique aspects.
